@@ -62,6 +62,7 @@ Accenture. (2024). XR Training in the Workplace.
 Retrieved from: https://www.accenture.com
 
 -**In IT**:
+
 Accenture – Uses VR to onboard and train consultants on enterprise systems.
 
 Cisco VR Training – Provides immersive learning for network infrastructure tasks.
